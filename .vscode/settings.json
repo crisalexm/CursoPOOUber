@@ -5,4 +5,10 @@
     "python.analysis.extraPaths": [
         "./Python"
     ]
+},
+{
+    "vscode_custom_css.imports": [
+      "file:///C:/Users/{Cristhian Martínez}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine.css",
+      "file:///C:/Users/{Cristhian Martínez}/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/epic-80s-transitions.css"
+      ]
 }
